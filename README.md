@@ -1,1 +1,1 @@
-# Aprendizaje-autom-tico
+# Aprendizaje-automatico
