@@ -1,4 +1,4 @@
-#;age;gender;employment_status;work_environment;mental_health_history;seeks_treatment;stress_level;sleep_hours;physical_activity_days;depression_score;anxiety_score;social_support_score;productivity_score;mental_health_risk
+age;gender;employment_status;work_environment;mental_health_history;seeks_treatment;stress_level;sleep_hours;physical_activity_days;depression_score;anxiety_score;social_support_score;productivity_score;mental_health_risk
 56;Male;Employed;On-site;Yes;Yes;6;6.2;3;28;17;54;59.7;High
 46;Female;Student;On-site;No;Yes;10;9.0;4;30;11;85;54.9;High
 32;Female;Employed;On-site;Yes;No;7;7.7;2;24;7;62;61.3;Medium
